@@ -1901,7 +1901,7 @@ input, select, textarea {
 		}
 
 		.icon.solid:before {
-			font-weight: 900;
+			font-weight: 500;
 		}
 
 		.icon:before {

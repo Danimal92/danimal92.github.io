@@ -43,17 +43,14 @@ const clipboardcopy = () => {
     }
 
 const tooltip = () => { 
-    console.log("HELLOOOOOOO")
     const clickTooltip = document.getElementById('click-tooltip')
     const tooltip = document.getElementById('tooltip')
     const clickTooltip2 = document.getElementById('click-tooltip2')
     const tooltip2 = document.getElementById('tooltip2')
     clickTooltip.addEventListener('click', () => {
-        console.log("HIT")
         fade()
     })
     clickTooltip2.addEventListener('click', () => {
-        console.log("HIT")
         fade2()
     })
 }

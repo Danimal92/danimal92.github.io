@@ -92,7 +92,8 @@ input, select, textarea {
 	}
 
 	body {
-		background: #f3f6fa;
+		/* background: #f3f6fa; */
+		background: #ebeaf2;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2293,7 +2294,7 @@ input, select, textarea {
 				}
 
 		.wrapper.style3 {
-			background: #fff;
+			background: #f3f6fa;
 			color: inherit;
 		}
 

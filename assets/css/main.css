@@ -82,7 +82,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	.projects a {
+	/* .projects a { */
 		/* background-color: #f3f6fa;
 		margin-bottom: 5em;
 		padding: 5em; */
@@ -92,7 +92,7 @@ input, select, textarea {
 		/* font-weight: 1000 ; */
 		/* letter-spacing: 0.025em; */
 		/* line-height: 1.75em; */
-	}
+	/* } */
 
 	body {
 		/* background: #f3f6fa; */

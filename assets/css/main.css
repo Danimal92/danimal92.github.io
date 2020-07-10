@@ -99,15 +99,25 @@ input, select, textarea {
 		color: #575757 ;
 	}
 
+	.project-header:hover {
+		color: #6dcc79 ;
+	}
+
 	.project-description {
 		font-weight: 500;
 		font-size: 12pt;
 	} 
+	/* .project-description:hover {
+		color: #6dcc79 ;
+	} */
 
 	.project-description2 {
-		font-weight: 400;
-		font-size: 14pt;
+		font-weight: 700;
+		font-size: 12pt;
 	} 
+	/* .project-description2:hover {
+		color: #6dcc79 ;
+	} */
 
 	body {
 		/* background: #f3f6fa; */

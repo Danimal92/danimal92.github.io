@@ -82,6 +82,10 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
+	.main-header {
+		font-size: 30pt;
+	}
+
 	.projects a {
 		/* background-color: #000000; */
 		/* margin-bottom: 5em; */
